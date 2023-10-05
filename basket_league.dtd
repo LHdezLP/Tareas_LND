@@ -1,0 +1,18 @@
+<!ELEMENT basket_league (matches)>
+<!ELEMENT matches (match+)>
+<!ELEMENT match (date, court_address, local_team, away_team, final_score)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT court_address (#PCDATA)>
+<!ELEMENT local_team (name, coaching_staff, player_roster, stats)>
+<!ELEMENT away_team (name, coaching_staff, player_roster, stats)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT coaching_staff (#PCDATA)>
+<!ELEMENT player_roster (#PCDATA)>
+<!ELEMENT stats (shot_attempts, shots_scored, asssists, three_point_shots, threes_scored, free_throws)>
+<!ELEMENT shot_attempts (#PCDATA)>
+<!ELEMENT shots_scored (#PCDATA)>
+<!ELEMENT asssists (#PCDATA)>
+<!ELEMENT three_point_shots (#PCDATA)>
+<!ELEMENT threes_scored (#PCDATA)>
+<!ELEMENT free_throws (#PCDATA)>
+<!ELEMENT final_score (#PCDATA)>

@@ -1,0 +1,98 @@
+<!DOCTYPE basket_league SYSTEM "basket_league.dtd"> 
+<basket_league>
+    <matches>
+        <match>
+            <date>2023-10-02</date>
+            <court_address>Calle Principal, 123</court_address>
+            <local_team>
+                <name>Canterbury Lions</name>
+                <coaching_staff>Entrenador: Juan Pérez, Segundo: Julio Gómez</coaching_staff>
+                <player_roster>Paquito Perez, Juanjo Manrquez, Julio Rodríguez, Tomas Paciencia, Jose Alvarado</player_roster>
+                <stats>
+                    <shot_attempts>75</shot_attempts>
+                    <shots_scored>25</shots_scored>
+                    <asssists>15</asssists>
+                    <three_point_shots>14</three_point_shots>
+                    <threes_scored>8</threes_scored>
+                    <free_throws>15</free_throws>
+                </stats>
+            </local_team>
+            <away_team>
+                <name>Club Baloncesto 7 Palmas</name>
+                <coaching_staff>Entrenador: Carlos López, Segundo: Alejandro Martínez</coaching_staff>
+                <player_roster>Carlos Quintana, Jonathan Betancor, Aday Martinez, Luis Hernández, Ruben Garcia</player_roster>
+                <stats>
+                    <shot_attempts>60</shot_attempts>
+                    <shots_scored>18</shots_scored>
+                    <asssists>10</asssists>
+                    <three_point_shots>12</three_point_shots>
+                    <threes_scored>4</threes_scored>
+                    <free_throws>11</free_throws>
+                </stats>
+            </away_team>
+            <final_score>75-60</final_score>
+        </match>
+        <match>
+            <date>2023-10-06</date>
+            <court_address>Calle Venezuela, 12</court_address>
+            <local_team>
+                <name>British School</name>
+                <coaching_staff>Entrenador: Roberto Romano, Segundo: Christian Garcia</coaching_staff>
+                <player_roster>Henry Michaels, Danny McCarthy, Diego Marrero, Obi-Wan Kenobi, Frodo Bolson</player_roster>
+                <stats>
+                    <shot_attempts>68</shot_attempts>
+                    <shots_scored>17</shots_scored>
+                    <asssists>11</asssists>
+                    <three_point_shots>12</three_point_shots>
+                    <threes_scored>5</threes_scored>
+                    <free_throws>18</free_throws>
+                </stats>
+            </local_team>
+            <away_team>
+                <name>Colegio Arenas</name>
+                <coaching_staff>Entrenador: Rafael Dominguez, Segundo: Joel Santana</coaching_staff>
+                <player_roster>Aitor Perez, David Becerra, Pablo Rodriguez, Gonzalo Avila, Killian Gimenez</player_roster>
+                <stats>
+                    <shot_attempts>70</shot_attempts>
+                    <shots_scored>22</shots_scored>
+                    <asssists>16</asssists>
+                    <three_point_shots>19</three_point_shots>
+                    <threes_scored>9</threes_scored>
+                    <free_throws>16</free_throws>
+                </stats>
+            </away_team>
+            <final_score>62-70</final_score>
+        </match>
+        <match>
+            <date>2023-10-12</date>
+            <court_address>Vega de San José, 21</court_address>
+            <local_team>
+                <name>CB Gran Canaria</name>
+                <coaching_staff>Entrenador: Fran Perez, Segundo: Alberto Torres</coaching_staff>
+                <player_roster>Joshua Obi, Sandro Santana, Alvaro Quesada, Fernando Ravelo, Martin Paredes</player_roster>
+                <stats>
+                    <shot_attempts>85</shot_attempts>
+                    <shots_scored>35</shots_scored>
+                    <asssists>19</asssists>
+                    <three_point_shots>20</three_point_shots>
+                    <threes_scored>10</threes_scored>
+                    <free_throws>16</free_throws>
+                </stats>
+            </local_team>
+            <away_team>
+                <name>Heidelberg School</name>
+                <coaching_staff>Entrenador: Hans Zimmermann, Segundo: Toribio Jesus Caceres</coaching_staff>
+                <player_roster>Niño Rubio Estandar, Diego Sanchez, Pol Pérez, Francisco Rivera, Diego Pablo Alcantara</player_roster>
+                <stats>
+                    <shot_attempts>80</shot_attempts>
+                    <shots_scored>30</shots_scored>
+                    <asssists>16</asssists>
+                    <three_point_shots>25</three_point_shots>
+                    <threes_scored>8</threes_scored>
+                    <free_throws>20</free_throws>
+                </stats>
+            </away_team>
+            <final_score>100-90</final_score>
+        </match>
+    </matches>
+</basket_league>
